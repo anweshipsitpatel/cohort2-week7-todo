@@ -1,8 +1,12 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Solution for Todoapp assignment using selector.
+	- This assignment was given in class 7.2W .
+	-  Course - Cohort2 100xdevs
+### Uses
+	- React
+	- atoms
+	- recoil
+### Function 
+	- Takes todos as input which include title and description.
+	- Renders todos to screen.
+	- Takes filter as input.
+	- Renders filtered todos to screen.
